@@ -1,2 +1,4 @@
 # python-basics-practice
-Solving python problem from scratch
+Solving python problem from scratch.
+<br>
+Author - Yashraj Bhavar
